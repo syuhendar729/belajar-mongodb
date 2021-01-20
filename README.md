@@ -1,8 +1,11 @@
-# Belajar Mongodb
+# Installer MongoDB
 Install mongodb with docker
-`git clone <name_url>`
-`cd mongodb`
+```
+git clone <name_url>
+cd mongodb
+```
 
 If the version mongodb update
-Edit file `docker-compose.yml`
+- edit file `docker-compose.yml`
+- 
 
