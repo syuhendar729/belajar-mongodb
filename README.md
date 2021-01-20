@@ -1,7 +1,7 @@
 # Installer MongoDB
 Install mongodb with docker
 ```
-git clone <name_url>
+git clone https://github.com/syuhendar729/install-mongodb.git
 cd mongodb
 ```
 
