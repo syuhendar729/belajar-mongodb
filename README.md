@@ -2,7 +2,7 @@
 Install mongodb with docker
 ```
 git clone https://github.com/syuhendar729/install-mongodb.git
-cd install-mongodb
+cd install-mongodb/mongodb
 docker-compose -f docker-compose.yml up -d
 ```
 - check if mongodb was successfull install
